@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple rock, paper, scissors created in python.
+A very simple classic game of rock, paper, scissors VS a computer
