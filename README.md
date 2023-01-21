@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Just a simple rock, paper, scissors created in python.
+A simple rock, paper, scissors created in python.
